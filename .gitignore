@@ -7,3 +7,5 @@ vendor/
 .vs
 cmake-build-debug
 *.sln
+*.suo
+Properties/
